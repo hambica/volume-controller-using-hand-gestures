@@ -16,6 +16,7 @@ Accessibility: Helps users with mobility challenges or temporary limitations to 
 Tech demo: Showcases integration of computer vision and audio control
 
 HOW TO RUN THE PROJECT? 
+
 -> install the required libraries:
 pip install opencv-python mediapipe comtypes pycaw numpy
 
